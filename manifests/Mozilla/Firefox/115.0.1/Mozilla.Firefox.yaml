@@ -10,4 +10,4 @@ InstallerType: msi
 Installers:
   - Architecture: x64
     InstallerUrl: https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US
-    Sha256: <EDC68829DDB93E1D92A8F252C02C36E869C8C71DB9DD465B337D9E06C795D675>
+    Sha256: EDC68829DDB93E1D92A8F252C02C36E869C8C71DB9DD465B337D9E06C795D675
