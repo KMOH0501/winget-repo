@@ -1,0 +1,13 @@
+Id: Mozilla.Firefox
+Publisher: Mozilla
+Name: Firefox
+Version: 115.0.1
+AppMoniker: firefox
+Description: The popular open-source web browser by Mozilla.
+Homepage: https://www.mozilla.org/firefox/
+License: MPL-2.0
+InstallerType: msi
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US
+    Sha256: <EDC68829DDB93E1D92A8F252C02C36E869C8C71DB9DD465B337D9E06C795D675>
