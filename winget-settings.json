@@ -1,7 +1,0 @@
-{
-  "source": {
-    "name": "winget-repo",
-    "type": "Microsoft.Winget.Source",
-    "arg": "https://github.com/KMOH0501/winget-repo/"
-  }
-}
